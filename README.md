@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**tinahe-nyc/tinahe-nyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm fascinated by nature and epistemology. 
 
 - 🔭 I’m currently working on my undergraduate degree (Biochemistry / Mathematics).
