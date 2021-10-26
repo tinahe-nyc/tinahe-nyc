@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm fascinated by nature and epistemology. 
+I'm fascinated by nature, epistemology, and metacognition. 
 
 - 🔭 I’m currently working on my undergraduate degree (Biochemistry / Mathematics).
 - 🌱 I’m currently learning python.
